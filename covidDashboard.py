@@ -118,6 +118,8 @@ layout = go.Layout(
 )
 
 
+#Comentario para git
+
 
 data = [ map_confirmados, map_muertos, map_recuperados ]
 fig = go.Figure(data=data, layout = layout)
